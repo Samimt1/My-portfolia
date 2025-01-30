@@ -26,19 +26,19 @@ const dataabout = {
 };
 const worktimeline = [
   {
-    jobtitle: "Designer of week",
-    where: "YAdfi",
-    date: "2020",
+    jobtitle: "Website Develoment",
+    where: "Addis Ababa, Bole",
+    date: "Monday - Wednesday",
   },
   {
-    jobtitle: "Designer of week",
-    where: "Jamalya",
-    date: "2019",
+    jobtitle: " Mobile App Development",
+    where: "Addis Ababa, Mexico",
+    date: "Thursday - Friday",
   },
   {
-    jobtitle: "Designer of week",
-    where: "ALquds",
-    date: "2019",
+    jobtitle: "Software testing",
+    where: "Addis Abebe, Megenagna",
+    date: "Saturday",
   },
 ];
 
@@ -161,8 +161,7 @@ const dataportfolio = [
 const contactConfig = {
   YOUR_EMAIL: "esubalew.samiye@gmail.com",
   YOUR_FONE: "+251960344062",
-  description:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+  description: "Contact me ",
   // creat an emailjs.com account
   // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
   YOUR_SERVICE_ID: "service_id",
