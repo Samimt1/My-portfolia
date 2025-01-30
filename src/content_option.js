@@ -15,13 +15,14 @@ const introdata = {
   },
   description:
     "I am a software engineer with skills in full-stack web development. I have experience in front-end technologies such as HTML, CSS, and JavaScript, along with frameworks like React. On the back end, I work with PHP and Node.js. Additionally, I have expertise in mobile app development using Android Studio and Flutter.",
-  your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d ",
+  your_img_url:
+    "https://as2.ftcdn.net/v2/jpg/06/97/17/65/1000_F_697176551_pUMjAjjjMeIETnJDU7fictOdxQTvXDFf.jpg",
 };
 
 const dataabout = {
-  title: "abit about my self",
+  title: "About my self",
   aboutme:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    "I design and develop innovative software solutions that meet user needs and enhance functionality. My expertise spans various programming languages and frameworks, enabling me to create efficient, scalable applications. I am committed to continuous learning and collaboration, ensuring that I stay updated with industry trends and best practices.",
 };
 const worktimeline = [
   {
@@ -66,19 +67,19 @@ const skills = [
 
 const services = [
   {
-    title: "UI & UX Design",
+    title: "Website Development",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+      "I have a strong foundation in HTML, CSS, and JavaScript, which I utilize to create engaging and user-friendly web applications. My expertise in frameworks like React and Vue enables me to develop dynamic, component-driven interfaces that enhance user experience. I have successfully worked on various projects, including e-commerce websites and hotel booking platforms, where I implemented features such as responsive design, seamless navigation, and interactive product displays. By leveraging the capabilities of these frameworks, I am able to deliver high-performance applications that not only meet the needs of businesses but also provide an intuitive experience for users.",
   },
   {
-    title: "Mobile Apps",
+    title: "Mobile App Development",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+      "I specialize in mobile app development using frameworks like React Native and Flutter, allowing me to create cross-platform applications with seamless performance. My experience includes building e-commerce and hotel booking apps, where I focus on delivering intuitive user interfaces and efficient functionality. By leveraging these frameworks, I ensure that users have a smooth and engaging experience, regardless of the device they use.",
   },
   {
-    title: "Wordpress Design",
+    title: "Software Testing",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+      "I am dedicated to ensuring the quality and reliability of applications through meticulous testing processes. I utilize various testing methodologies, including manual and automated testing, to identify bugs and ensure functionality meets specifications. My attention to detail and analytical skills enable me to provide valuable feedback to development teams, contributing to the overall improvement of software products. I am passionate about delivering high-quality user experiences and continuously improving testing practices.",
   },
 ];
 
