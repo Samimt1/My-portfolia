@@ -15,7 +15,7 @@ const introdata = {
   },
   description:
     "I am a software engineer with skills in full-stack web development. I have experience in front-end technologies such as HTML, CSS, and JavaScript, along with frameworks like React. On the back end, I work with PHP and Node.js. Additionally, I have expertise in mobile app development using Android Studio and Flutter.",
-  your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+  your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d ",
 };
 
 const dataabout = {
